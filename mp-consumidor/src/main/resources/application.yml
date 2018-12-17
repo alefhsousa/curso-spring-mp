@@ -1,0 +1,10 @@
+
+
+
+mensageria:
+  topico:
+    nome: topico-documentos
+    nomeFila: filaDocumentos
+    routingKey: "*"
+server:
+  port: 8082
